@@ -1,0 +1,9 @@
+
+===================================
+            Fatin's Shop
+===================================
+- Your Item         :  Beauty Face Wash
+- Your Item Price   :  25000
+- Your Item Quantity:  2
+- Your Total Money  :  100000
+- Your Total Change :  IDR50000
